@@ -1,16 +1,25 @@
-### Hi there 👋
+# Olá! Sou o Lucas 👋
+Bem-vindo ao meu portfólio! Aqui, você encontrará os mais diversos projetos pessoais. Sinta-se livre para explorar e colaborar!
 
-<!--
-**Lucasbnas435/Lucasbnas435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+- 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas na FATEC Taubaté-SP
+- 💼 Estagiário em Machine Learning com AWS na Compass UOL
+- 💡 Sou fascinado pela tecnologia e suas vertentes
+- 💻 Atualmente, estou me aprofundando em **Machine Learning**, **Ciência de Dados** e **Computação em Nuvem**
 
-Here are some ideas to get you started:
+## Minhas Habilidades
+- Linguagens de Programação: Python, SQL e Javascript (NodeJS)
+- Git & GitHub
+- Computação em Nuvem: AWS
+- Docker & Kubernetes
+- Atuação com Metodologias Ágeis: Scrum e Kanban
+- Linux
+- Criação e consumo de APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contatos
+Muito obrigado por acessar meu portfólio!
+
+Vamos nos conectar?
+
+- E-mail: lucasbnas435@gmail.com
+- LinkedIn: www.linkedin.com/in/lucasbnas
