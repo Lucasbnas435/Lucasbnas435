@@ -8,13 +8,13 @@ Bem-vindo ao meu portfólio! Aqui, você encontrará os mais diversos projetos p
 - 💻 Atualmente, estou me aprofundando em **Generative AI**, **Machine Learning** e **Ciência de Dados**
 
 ## Experiência
-##### AI/ML Developer - Compass UOL
+### AI/ML Developer - Compass UOL
 - Fevereiro 2024 - Atualmente
 
-##### Iniciação Científica - Instituto Nacional de Pesquisas Espaciais (INPE)
+### Iniciação Científica - Instituto Nacional de Pesquisas Espaciais (INPE)
 - Janeiro 2024 - Atualmente
 
-##### Estágio em Machine Learning com AWS - Compass UOL
+### Estágio em Machine Learning com AWS - Compass UOL
 - Julho 2023 - Dezembro 2023
 
 ## Certificações
