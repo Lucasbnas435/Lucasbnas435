@@ -3,14 +3,30 @@ Bem-vindo ao meu portfólio! Aqui, você encontrará os mais diversos projetos p
 
 ## Sobre Mim
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas na FATEC Taubaté-SP
-- 💼 Estagiário em Machine Learning com AWS na Compass UOL
+- 💼 AI/ML Developer na Compass UOL
 - 💡 Sou fascinado pela tecnologia e suas vertentes
-- 💻 Atualmente, estou me aprofundando em **Machine Learning**, **Ciência de Dados** e **Computação em Nuvem**
+- 💻 Atualmente, estou me aprofundando em **Generative AI**, **Machine Learning** e **Ciência de Dados**
+
+## Experiência
+##### AI/ML Developer - Compass UOL
+- Fevereiro 2024 - Atualmente
+
+##### Iniciação Científica - Instituto Nacional de Pesquisas Espaciais (INPE)
+- Janeiro 2024 - Atualmente
+
+##### Estágio em Machine Learning com AWS - Compass UOL
+- Julho 2023 - Dezembro 2023
+
+## Certificações
+- AWS Certified Cloud Practitioner
+- Oracle Cloud Infrastructure AI Foundations Associate
+- Gen AI Technical Certification - Compass UOL
+- AI-Assisted Certified Professional - Compass UOL
 
 ## Minhas Habilidades
 - Linguagens de Programação: Python, SQL e Javascript (NodeJS)
 - Git & GitHub
-- Computação em Nuvem: AWS
+- Computação em Nuvem: AWS e OCI
 - Docker & Kubernetes
 - Atuação com Metodologias Ágeis: Scrum e Kanban
 - Linux
@@ -21,5 +37,4 @@ Muito obrigado por acessar meu portfólio!
 
 Vamos nos conectar?
 
-- E-mail: lucasbnas435@gmail.com
-- LinkedIn: www.linkedin.com/in/lucasbnas
+- LinkedIn: https://linkedin.com/in/lucasbnas
