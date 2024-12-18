@@ -4,31 +4,33 @@ Bem-vindo ao meu portfólio! Aqui, você encontrará os mais diversos projetos p
 ## Sobre Mim
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas na Fatec Taubaté-SP
 - 💼 AI/ML Developer na Compass UOL
-- 💡 Sou fascinado pela tecnologia e suas vertentes
+- 💡 Sou fascinado por tecnologia e inovação
 - 💻 Atualmente, estou me aprofundando em **Generative AI**, **Machine Learning** e **Ciência de Dados**
 
 ## Experiência
 ### AI/ML Developer - Compass UOL
 - Fevereiro 2024 - Atualmente
 
-### Iniciação Científica - Instituto Nacional de Pesquisas Espaciais (INPE)
+### Bolsista de Iniciação Científica - Instituto Nacional de Pesquisas Espaciais (INPE)
 - Janeiro 2024 - Atualmente
 
-### Estágio em Machine Learning com AWS - Compass UOL
+### Estagiário de Machine Learning com AWS - Compass UOL
 - Julho 2023 - Dezembro 2023
 
 ## Certificações
 - AWS Certified Cloud Practitioner
+- AWS Certified AI Practitioner
+- Microsoft AI-900: Azure AI Fundamentals
+- Microsoft DP-600: Fabric Analytics Engineer Associate
 - Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
 - Oracle Cloud Infrastructure AI Foundations Associate
-- Microsoft AI-900: Azure AI Fundamentals
 - Gen AI Technical Certification - Compass UOL
 - AI-Assisted Certified Professional - Compass UOL
 
 ## Minhas Habilidades
-- Linguagens de Programação: Python, SQL e Javascript (NodeJS)
+- Linguagens de Programação: Python, SQL e Javascript (Node.js)
 - Git & GitHub
-- Computação em Nuvem: AWS, OCI e Azure
+- Computação em Nuvem: AWS, Azure e OCI
 - Docker & Kubernetes
 - Atuação com Metodologias Ágeis: Scrum e Kanban
 - Linux
