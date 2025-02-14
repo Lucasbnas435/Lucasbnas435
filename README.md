@@ -28,13 +28,25 @@ Bem-vindo ao meu portfólio! Aqui, você encontrará os mais diversos projetos p
 - AI-Assisted Certified Professional - Compass UOL
 
 ## Minhas Habilidades
-- Linguagens de Programação: Python, SQL e Javascript (Node.js)
+- Python
+- JavaScript & Node.js
+- SQL
+- MySQL, PostgreSQL & PgVector
+- AWS (Bedrock, Lex V2, SageMaker, Athena, Glue, Aurora, Rekognition, Textract, Polly, Transcribe, OpenSearch, DynamoDB, CloudFormation, SAM, API Gateway, Elastic Beanstalk, EventBridge, S3, Lambda, EC2, entre outros)
+- Generative AI
+- Desenvolvimento de Chatbots e AI Agents
+- Retrieval-Augmented Generation (RAG)
+- Machine Learning
 - Git & GitHub
-- Computação em Nuvem: AWS, Azure e OCI
-- Docker & Kubernetes
-- Atuação com Metodologias Ágeis: Scrum e Kanban
-- Linux
-- Criação e consumo de APIs
+- IaC com Terraform, CloudFormation e AWS SAM
+- Docker
+- MongoDB
+- Desenvolvimento de APIs REST e WebSocket
+- Twilio & broker Positus
+- Microsoft Azure
+- Microsoft Fabric
+- Oracle Cloud Infrastructure (OCI)
+- Metodologias ágeis: Scrum & Kanban
 
 ## Contatos
 Muito obrigado por acessar meu portfólio!
