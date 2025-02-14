@@ -20,8 +20,8 @@ Bem-vindo ao meu portfólio! Aqui, você encontrará os mais diversos projetos p
 ## Certificações
 - AWS Certified Cloud Practitioner
 - AWS Certified AI Practitioner
-- Microsoft AI-900: Azure AI Fundamentals
 - Microsoft DP-600: Fabric Analytics Engineer Associate
+- Microsoft AI-900: Azure AI Fundamentals
 - Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
 - Oracle Cloud Infrastructure AI Foundations Associate
 - Gen AI Technical Certification - Compass UOL
