@@ -3,13 +3,16 @@ Bem-vindo ao meu portfólio! Aqui, você encontrará os mais diversos projetos p
 
 ## Sobre Mim
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas na Fatec Taubaté-SP
-- 💼 AI/ML Developer na Compass UOL
+- 💼 AI Engineer na KarHub
 - 💡 Sou fascinado por tecnologia e inovação
 - 💻 Atualmente, estou me aprofundando em **Generative AI**, **Desenvolvimento Backend** e **Engenharia de Dados**
 
 ## Experiência
+### Mid-level AI Engineer - KarHub
+- Março 2025 - Atualmente
+
 ### AI/ML Developer - Compass UOL
-- Fevereiro 2024 - Atualmente
+- Fevereiro 2024 - Março 2025
 
 ### Bolsista de Iniciação Científica - Instituto Nacional de Pesquisas Espaciais (INPE)
 - Janeiro 2024 - Agosto 2024
@@ -24,8 +27,6 @@ Bem-vindo ao meu portfólio! Aqui, você encontrará os mais diversos projetos p
 - Microsoft AI-900: Azure AI Fundamentals
 - Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
 - Oracle Cloud Infrastructure AI Foundations Associate
-- Gen AI Technical Certification - Compass UOL
-- AI-Assisted Certified Professional - Compass UOL
 
 ## Minhas Habilidades
 - Python
