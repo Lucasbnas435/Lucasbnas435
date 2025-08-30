@@ -5,7 +5,7 @@ Bem-vindo ao meu portfólio! Aqui, você encontrará os mais diversos projetos p
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas na Fatec Taubaté-SP
 - 💼 AI Engineer na KarHub
 - 💡 Sou fascinado por tecnologia e inovação
-- 💻 Atualmente, estou me aprofundando em **Generative AI**, **Desenvolvimento Backend** e **Engenharia de Dados**
+- 💻 Atualmente, estou me aprofundando em **Machine Learning**, **Ciência de Dados** e **Inteligência Artificial**
 
 ## Experiência
 ### Mid-level AI Engineer - KarHub
