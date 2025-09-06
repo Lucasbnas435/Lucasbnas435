@@ -1,26 +1,29 @@
-# Olá! Sou o Lucas 👋
-Bem-vindo ao meu portfólio! Aqui, você encontrará os mais diversos projetos pessoais. Sinta-se livre para explorar e colaborar!
+# Hi! I’m Lucas 👋
 
-## Sobre Mim
-- 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas na Fatec Taubaté-SP
-- 💼 AI Engineer na KarHub
-- 💡 Sou fascinado por tecnologia e inovação
-- 💻 Atualmente, estou me aprofundando em **Machine Learning**, **Ciência de Dados** e **Inteligência Artificial**
+Welcome to my portfolio! Here, you’ll find a variety of personal projects. Feel free to explore and collaborate!
 
-## Experiência
-### Mid-level AI Engineer - KarHub
-- Março 2025 - Atualmente
+## About Me
+- 👨‍🎓 Studying Systems Analysis and Development at Fatec Taubaté-SP
+- 💼 Data Scientist at KarHub
+- 💡 Passionate about technology and innovation
 
-### AI/ML Developer - Compass UOL
-- Fevereiro 2024 - Março 2025
+## Experience
+### Data Scientist – KarHub
+- August 2025 – Present
 
-### Bolsista de Iniciação Científica - Instituto Nacional de Pesquisas Espaciais (INPE)
-- Janeiro 2024 - Agosto 2024
+### Mid-level AI Engineer – KarHub
+- March 2025 – August 2025
 
-### Estagiário de Machine Learning com AWS - Compass UOL
-- Julho 2023 - Dezembro 2023
+### AI/ML Engineer – Compass UOL
+- February 2024 – March 2025
 
-## Certificações
+### Undergraduate Research Fellow – National Institute for Space Research (INPE)
+- January 2024 – August 2024
+
+### Machine Learning Engineer Intern – Compass UOL
+- July 2023 – December 2023
+
+## Certifications
 - AWS Certified Cloud Practitioner
 - AWS Certified AI Practitioner
 - Microsoft DP-600: Fabric Analytics Engineer Associate
@@ -28,30 +31,29 @@ Bem-vindo ao meu portfólio! Aqui, você encontrará os mais diversos projetos p
 - Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
 - Oracle Cloud Infrastructure AI Foundations Associate
 
-## Minhas Habilidades
+## My Skills
 - Python
 - JavaScript & Node.js
-- SQL
-- MySQL, PostgreSQL & PgVector
-- AWS (Bedrock, Lex V2, SageMaker, Athena, Glue, Aurora, Rekognition, Textract, Polly, Transcribe, OpenSearch, DynamoDB, CloudFormation, SAM, API Gateway, Elastic Beanstalk, EventBridge, S3, Lambda, EC2, entre outros)
+- SQL, MySQL, PostgreSQL & PgVector
+- AWS (Bedrock, Lex V2, SageMaker, Athena, Glue, Aurora, Rekognition, Textract, Polly, Transcribe, OpenSearch, DynamoDB, CloudFormation, SAM, API Gateway, Elastic Beanstalk, EventBridge, S3, Lambda, EC2, among others)
 - Generative AI
-- Desenvolvimento de Chatbots e AI Agents
+- Chatbot and AI Agent Development
 - Retrieval-Augmented Generation (RAG)
 - Machine Learning
 - Git & GitHub
-- IaC com Terraform, CloudFormation e AWS SAM
+- IaC with Terraform, CloudFormation, and AWS SAM
 - Docker
 - MongoDB
-- Desenvolvimento de APIs REST e WebSocket
-- Twilio & broker Positus
+- REST and WebSocket API Development
+- Twilio & Broker Positus
 - Microsoft Azure
 - Microsoft Fabric
 - Oracle Cloud Infrastructure (OCI)
-- Metodologias ágeis: Scrum & Kanban
+- Agile Methodologies: Scrum & Kanban
 
-## Contatos
-Muito obrigado por acessar meu portfólio!
+## Contact
+Thank you for visiting my portfolio!
 
-Vamos nos conectar?
+Shall we connect?
 
 - LinkedIn: https://linkedin.com/in/lucasbnas
