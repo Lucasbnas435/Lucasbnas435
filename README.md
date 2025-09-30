@@ -3,8 +3,8 @@
 Welcome to my portfolio! Here, you’ll find a variety of personal projects. Feel free to explore and collaborate!
 
 ## About Me
-- 👨‍🎓 Studying Systems Analysis and Development at Fatec Taubaté-SP
 - 💼 Data Scientist at KarHub
+- 👨‍🎓 Studying Systems Analysis and Development at Fatec Taubaté-SP
 - 💡 Passionate about technology and innovation
 
 ## Experience
