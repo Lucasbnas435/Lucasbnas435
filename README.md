@@ -17,7 +17,7 @@ Welcome to my portfolio! Here, you’ll find a variety of personal projects. Fee
 ### AI/ML Engineer – Compass UOL
 - February 2024 – March 2025
 
-### Undergraduate Research Fellow – National Institute for Space Research (INPE)
+### Undergraduate Research Fellow – National Institute for Space Research (INPE, Brazil)
 - January 2024 – August 2024
 
 ### Machine Learning Engineer Intern – Compass UOL
@@ -45,7 +45,6 @@ Welcome to my portfolio! Here, you’ll find a variety of personal projects. Fee
 - Docker
 - MongoDB
 - REST and WebSocket API Development
-- Twilio & Broker Positus
 - Microsoft Azure
 - Microsoft Fabric
 - Oracle Cloud Infrastructure (OCI)
