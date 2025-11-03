@@ -28,6 +28,7 @@ Welcome to my portfolio! Here, you’ll find a variety of personal projects. Fee
 - AWS Certified AI Practitioner
 - Microsoft DP-600: Fabric Analytics Engineer Associate
 - Microsoft AI-900: Azure AI Fundamentals
+- Oracle Cloud Infrastructure 2025 Certified Data Science Professional
 - Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
 - Oracle Cloud Infrastructure AI Foundations Associate
 
