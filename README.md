@@ -3,13 +3,16 @@
 Welcome to my portfolio! Here, you’ll find a variety of personal projects. Feel free to explore and collaborate!
 
 ## About Me
-- 💼 Data Scientist at KarHub
+- 💼 AI Developer at Zup Innovation
 - 👨‍🎓 Studying Systems Analysis and Development at Fatec Taubaté-SP
 - 💡 Passionate about technology and innovation
 
 ## Experience
-### Data Scientist – KarHub
-- August 2025 – Present
+### Senior AI Developer - Zup Innovation
+- December 2025 – Present
+
+### Data Scientist - KarHub
+- August 2025 – December 2025
 
 ### Mid-level AI Engineer – KarHub
 - March 2025 – August 2025
@@ -26,7 +29,6 @@ Welcome to my portfolio! Here, you’ll find a variety of personal projects. Fee
 ## Certifications
 - AWS Certified Cloud Practitioner
 - AWS Certified AI Practitioner
-- Microsoft DP-600: Fabric Analytics Engineer Associate
 - Microsoft AI-900: Azure AI Fundamentals
 - Oracle Cloud Infrastructure 2025 Certified Data Science Professional
 - Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
