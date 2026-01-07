@@ -4,7 +4,7 @@ Welcome to my portfolio! Here, you’ll find a variety of personal projects. Fee
 
 ## About Me
 - 💼 AI Developer at Zup Innovation
-- 👨‍🎓 Studying Systems Analysis and Development at Fatec Taubaté-SP
+- 👨‍🎓 Graduated in Systems Analysis and Development from Fatec Taubaté-SP
 - 💡 Passionate about technology and innovation
 
 ## Experience
