@@ -4,6 +4,7 @@ Welcome to my portfolio! Here, you’ll find a variety of personal projects. Fee
 
 ## About Me
 - 💼 AI Developer at Zup Innovation
+- 🎓 M.Sc. student in Computer Science at Unifesp (Focus on Artificial Intelligence)
 - 👨‍🎓 Graduated in Systems Analysis and Development from Fatec Taubaté-SP
 - 💡 Passionate about technology and innovation
 
@@ -49,7 +50,6 @@ Welcome to my portfolio! Here, you’ll find a variety of personal projects. Fee
 - MongoDB
 - REST and WebSocket API Development
 - Microsoft Azure
-- Microsoft Fabric
 - Oracle Cloud Infrastructure (OCI)
 - Agile Methodologies: Scrum & Kanban
 
