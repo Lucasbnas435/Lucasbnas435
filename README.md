@@ -4,7 +4,7 @@ Welcome to my portfolio! Here, you’ll find a variety of personal projects. Fee
 
 ## About Me
 - 💼 AI Developer at Zup Innovation
-- 🎓 M.Sc. student in Computer Science at Unifesp (Focus on Artificial Intelligence)
+- 🎓 M.Sc. student in Computer Science at Unifesp (focus on Artificial Intelligence)
 - 👨‍🎓 Graduated in Systems Analysis and Development from Fatec Taubaté-SP
 - 💡 Passionate about technology and innovation
 
